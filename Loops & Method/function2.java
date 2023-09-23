@@ -1,4 +1,4 @@
-// Print a given name in a function
+// Print a given name in a Function
 import java.util.*;
 public class function2 {
 
